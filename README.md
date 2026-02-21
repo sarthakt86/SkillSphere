@@ -77,4 +77,4 @@ python main.py
 
 ## 👨‍💻 Author
 
-Developed as a learning project to demonstrate core Python, data handling, and basic recommendation system logic.
+Developer : Sarthak Tiwary

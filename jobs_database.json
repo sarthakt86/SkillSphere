@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "DevOps Engineer",
+        "skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "linux"
+        ],
+        "location": "Bangalore",
+        "company": "TechCorp"
+    },
+    {
+        "id": 2,
+        "title": "Python Developer",
+        "skills": [
+            "python",
+            "django",
+            "git",
+            "rest api"
+        ],
+        "location": "Hyderabad",
+        "company": "SoftSol"
+    },
+    {
+        "id": 3,
+        "title": "Cloud Architect",
+        "skills": [
+            "aws",
+            "azure",
+            "terraform",
+            "python"
+        ],
+        "location": "Bangalore",
+        "company": "CloudNine"
+    },
+    {
+        "id": 4,
+        "title": "Backend Engineer",
+        "skills": [
+            "python",
+            "flask",
+            "docker",
+            "postgresql"
+        ],
+        "location": "Mumbai",
+        "company": "DataFlow"
+    },
+    {
+        "id": 5,
+        "title": "SRE Engineer",
+        "skills": [
+            "linux",
+            "prometheus",
+            "docker",
+            "python"
+        ],
+        "location": "Hyderabad",
+        "company": "StableOps"
+    }
+]
